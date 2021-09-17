@@ -1,5 +1,8 @@
 # 3 TD Bank User Stories
 
+##### The TD Bank app for mobile devices is to provide quick, easy, secure services for its clients to take care of their money in their own chequing, saving, credit, and investment accounts.
+
+
 ##### List of User Stories
 ```
 - Login
