@@ -32,7 +32,7 @@ so that I can feel my accounts safer without concerning security problems.
 >3. Two-Step Verification page
 >4. Success page
 
-![Login Wireframe](https://byung1211.github.com/fall-2021/DSGN270-Assignment2/tdbank-login-wireframe.png)
+![Login Wireframe](https://byung1211.github.io/fall-2021/DSGN270-Assignment2/tdbank-login-wireframe.png)
 
 ---
 ## Recipient Registration
